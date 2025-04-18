@@ -129,5 +129,3 @@ print(response.candidates) # Multiple generated options (if applicable)
 
 ---
 
-> Need a sample project, UI, or deployment guide? Let us know!
-```
