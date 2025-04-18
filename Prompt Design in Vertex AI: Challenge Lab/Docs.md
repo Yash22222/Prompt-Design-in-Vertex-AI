@@ -2,6 +2,7 @@
 
 ```markdown
 This lab is designed to test your understanding of prompt engineering using the tools provided in Google Cloud's Vertex AI, specifically focusing on **text generation** and **Gemini/PaLM models**.
+  ```
 ---
 
 ## 🎯 Objectives
