@@ -4,7 +4,7 @@
 ```markdown
 
 
-This guide helps you explore **Vertex AI Studio** (Google Cloud's web interface for generative AI) and learn how to design powerful prompts using tools like **PaLM 2**, **Gemini**, and **Codey**.
+This helps you explore **Vertex AI Studio** (Google Cloud's web interface for generative AI) and learn how to design powerful prompts using tools like **PaLM 2**, **Gemini**, and **Codey**.
 
 ---
 
