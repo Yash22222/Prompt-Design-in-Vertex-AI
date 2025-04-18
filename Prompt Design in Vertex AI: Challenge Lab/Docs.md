@@ -1,10 +1,7 @@
 # 🧪 Prompt Design in Vertex AI: Challenge Lab
 
 ```markdown
-
-
-Welcome to the **Prompt Design Challenge Lab** in **Vertex AI**. This lab is designed to test your understanding of prompt engineering using the tools provided in Google Cloud's Vertex AI, specifically focusing on **text generation** and **Gemini/PaLM models**.
-
+This lab is designed to test your understanding of prompt engineering using the tools provided in Google Cloud's Vertex AI, specifically focusing on **text generation** and **Gemini/PaLM models**.
 ---
 
 ## 🎯 Objectives
