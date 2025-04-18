@@ -1,7 +1,7 @@
 
 
 ```markdown
-# Generative AI with Vertex AI: Prompt Design
+
 
 ## 🔍 What is Vertex AI?
 
